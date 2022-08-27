@@ -19,8 +19,8 @@
   <Description DefaultValue="Exam Timer"/>
 
   <!-- Icon for your add-in. Used on installation screens and the add-ins dialog. -->
-  <IconUrl DefaultValue="https://0893-121-99-97-251.au.ngrok.io//assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://0893-121-99-97-251.au.ngrok.io//assets/icon-80.png.png"/>
+  <IconUrl DefaultValue="https://wulingoh.github.io/TimerJs/assets/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://wulingoh.github.io/TimerJs/assets/icon-80.png.png"/>
 
   <!--If you plan to submit this add-in to the Office Store, uncomment the SupportUrl element below-->
   <!--<SupportUrl DefaultValue="[Insert the URL of a page that provides support information for the app]" />-->
@@ -38,7 +38,7 @@
     <Host Name="Presentation" />
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://0893-121-99-97-251.au.ngrok.io//index.html" />
+    <SourceLocation DefaultValue="https://wulingoh.github.io/TimerJs/index.html" />
     <RequestedWidth>1000</RequestedWidth>
     <RequestedHeight>600</RequestedHeight>
   </DefaultSettings>
